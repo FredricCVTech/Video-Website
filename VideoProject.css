@@ -1,0 +1,100 @@
+body {
+    background-color:#111;
+    width:100%;
+}
+.navbar {
+    width:100%;
+    display:block;
+    background-color:#111;
+}
+.dark-mode {
+    background-color:#111;
+}
+.btn-dark-mode {
+    background-color:rgba(0,0,0,0);
+}
+.form-control {
+    background-color: #111;
+    border:solid 2px #333;  
+}
+form {
+    display:inline;
+    margin:0;
+    padding:0;
+}
+
+.input-group {
+    align-items:center;
+    width:500px;
+}
+video {
+    padding-left:20px;
+    width:100%;
+}
+button {
+    display:inline;
+}
+/*.btn:hover  {
+    color:white;
+    background-color:rgba(68, 68, 68, 0.5);
+}*/
+.videosize {
+    width:1425px;
+}
+.mainbody {
+    color:white;
+}
+figure {
+    display:flex;
+    align-items:center;
+}
+figcaption {
+    float:right;
+}
+figcaption > header {
+    float:left;
+}
+li {
+    padding-right:27px;
+}
+img {
+    padding:2px;
+}
+footer {
+    color:#9a9a9a;
+}
+.well {
+    background-color: #222;
+    border-color: #222;
+    width:1425px
+}
+h4 {
+    font-weight:bold;
+}
+.thumnailtitle {
+    font-weight:bold;
+}
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    text-align:center;
+    border-radius: 20px;
+}
+#btnbckgrd {
+    background-color:#333;
+}
+#btnbckgrd:hover {
+    color:white;
+    background-color:rgba(68, 68, 68, 0.5);
+}
+#channelname:hover {
+    font-weight:bold;
+    text-decoration:underline;
+}
+#subbtn {
+    background-color:white;
+    color:black;
+}
+#subbtn:hover {
+    background-color:rgba(255, 255, 255, 0.778);
+}
